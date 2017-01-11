@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\Classes\Author.cs" />
+    <Compile Include="Model\Classes\Book.cs" />
+    <Compile Include="Model\Classes\BookItem.cs" />
+    <Compile Include="Model\IAuthor.cs" />
+    <Compile Include="Model\IBook.cs" />
+    <Compile Include="Model\IBookItem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
