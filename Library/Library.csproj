@@ -52,6 +52,7 @@
     <Compile Include="Model\IBook.cs" />
     <Compile Include="Model\IBookItem.cs" />
     <Compile Include="Model\IObservable.cs" />
+    <Compile Include="Model\Observables\Factory.cs" />
     <Compile Include="Model\Observables\ObservableBook.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
