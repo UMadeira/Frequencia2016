@@ -9,7 +9,7 @@ namespace Library.Model.Classes
 {
     class BookItem : IBookItem
     {
-        public BookItem( IBook aBook )
+        public BookItem( IBook aBook = null )
         {
             Book = aBook;
         }
